@@ -481,65 +481,65 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDoma
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/jjkt.png" group-title="儿童频道",嘉佳卡通
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 ,精彩影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot01.png" group-title="iHOT频道",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 ,爱电竞
+#EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot12.png" group-title="iHOT频道",iHOT爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 ,爱谍战
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot26.png" group-title="iHOT频道",iHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 ,爱动漫
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot11.png" group-title="iHOT频道",iHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 ,爱都市
+#EXTINF:-1 tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot25.png" group-title="iHOT频道",iHOT爱都市
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 ,爱怀旧
+#EXTINF:-1 tvg-id="爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot29.png" group-title="iHOT频道",iHOT爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 ,爱极限
+#EXTINF:-1 tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot18.png" group-title="iHOT频道",iHOT爱极限
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 ,爱家庭
+#EXTINF:-1 tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot21.png" group-title="iHOT频道",iHOT爱家庭
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 ,爱江湖
+#EXTINF:-1 tvg-id="爱江湖" tvg-name="iHOT爱江湖" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot28.png" group-title="iHOT频道",iHOT爱江湖
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 ,爱解密
+#EXTINF:-1 tvg-id="爱解密" tvg-name="iHOT爱解密" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot06.png" group-title="iHOT频道",iHOT爱解密
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 ,爱经典
+#EXTINF:-1 tvg-id="爱经典" tvg-name="iHOT爱经典" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot27.png" group-title="iHOT频道",iHOT爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 ,爱科幻
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot02.png" group-title="iHOT频道",iHOT爱科幻
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 ,爱科学
+#EXTINF:-1 tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot07.png" group-title="iHOT频道",iHOT爱科学
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 ,爱浪漫
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot09.png" group-title="iHOT频道",iHOT爱浪漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 ,爱历史
+#EXTINF:-1 tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot10.png" group-title="iHOT频道",iHOT爱历史
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 ,爱猎奇
+#EXTINF:-1 tvg-id="爱猎奇" tvg-name="iHOT爱猎奇" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot08.png" group-title="iHOT频道",iHOT爱猎奇
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 ,爱旅行
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot19.png" group-title="iHOT频道",iHOT爱旅行
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 ,爱美食
+#EXTINF:-1 tvg-id="爱美食" tvg-name="iHOT爱美食" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot20.png" group-title="iHOT频道",iHOT爱美食
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 ,爱奇谈
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot04.png" group-title="iHOT频道",iHOT爱奇谈
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 ,爱青春
+#EXTINF:-1 tvg-id="爱青春" tvg-name="iHOT爱青春" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot22.png" group-title="iHOT频道",iHOT爱青春
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 ,爱赛车
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot16.png" group-title="iHOT频道",iHOT爱赛车
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 ,爱时尚
+#EXTINF:-1 tvg-id="爱时尚" tvg-name="iHOT爱时尚" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot23.png" group-title="iHOT频道",iHOT爱时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 ,爱世界
+#EXTINF:-1 tvg-id="爱世界" tvg-name="iHOT爱世界" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot17.png" group-title="iHOT频道",iHOT爱世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 ,爱探索
+#EXTINF:-1 tvg-id="爱探索" tvg-name="iHOT爱探索" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot05.png" group-title="iHOT频道",iHOT爱探索
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 ,爱体育
+#EXTINF:-1 tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot15.png" group-title="iHOT频道",iHOT爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 ,爱玩具
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot13.png" group-title="iHOT频道",iHOT爱玩具
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 ,爱喜剧
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot03.png" group-title="iHOT频道",iHOT爱喜剧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 ,爱悬疑
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot14.png" group-title="iHOT频道",iHOT爱悬疑
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 ,爱幼教
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot30.png" group-title="iHOT频道",iHOT爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 ,爱娱乐
+#EXTINF:-1 tvg-id="爱娱乐" tvg-name="iHOT爱娱乐" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot24.png" group-title="iHOT频道",iHOT爱娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 ,爱院线
+#EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot01.png" group-title="iHOT频道",iHOT爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
