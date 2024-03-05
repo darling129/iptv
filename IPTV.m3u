@@ -399,8 +399,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot29.png" group-title="iHOT频道",iHOT爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-//#EXTINF:-1 tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot18.png" group-title="iHOT频道",iHOT爱极限
-//http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot18.png" group-title="iHOT频道",iHOT爱极限
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot21.png" group-title="iHOT频道",iHOT爱家庭
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱江湖" tvg-name="iHOT爱江湖" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot28.png" group-title="iHOT频道",iHOT爱江湖
