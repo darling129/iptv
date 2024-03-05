@@ -204,8 +204,6 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001326/index.m3u8?virtualDoma
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央新影老故事" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNDlgs.png" group-title="数字高清",中央新影老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNDlgs.png" group-title="数字高清",上海纪实HD
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="山东教育电视台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNDlgs.png" group-title="数字高清",山东教育电视台
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
