@@ -309,7 +309,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 #EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="北京频道",纪实科教
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="儿童频道",卡酷少儿
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=3
 
 #陕西/7个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="陕西频道",陕西新闻资讯
