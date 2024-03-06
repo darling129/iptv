@@ -449,11 +449,11 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot01.png" group-title="iHOT频道",iHOT爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 ,电子竞技
+#EXTINF:-1 tvg-id="yxfy" tvg-name="电子竞技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",电子竞技
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
-#EXTINF:-1 ,高清娱乐
+#EXTINF:-1 tvg-id="yxfy" tvg-name="高清娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",高清娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
-#EXTINF:-1 ,漫游世界
+#EXTINF:-1 tvg-id="yxfy" tvg-name="漫游世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",漫游世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 
 #咪咕体育/44个频道
