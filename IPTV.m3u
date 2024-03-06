@@ -204,7 +204,7 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001326/index.m3u8?virtualDoma
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央新影老故事" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNDlgs.png" group-title="数字高清",中央新影老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shandong/Shandong9.png" group-title="数字高清",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png" group-title="数字高清",山东教育卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -384,12 +384,16 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="超级体育" tvg-name="NewTV超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV22.png" group-title="NewTV",NewTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV39.png" group-title="NewTV",NewTV精品萌宠
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV39.png" group-title="NewTV",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV04.png" group-title="NewTV",NewTV古装剧场
 http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="NewTV哒啵赛事" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV44.png" group-title="NewTV",NewTV哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="NewTV哒啵电竞" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV45.png" group-title="NewTV",NewTV哒啵电竞
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jcys.png" group-title="数字高清",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
