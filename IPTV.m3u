@@ -382,18 +382,18 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV39.png" group-title="NewTV",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV04.png" group-title="NewTV",NewTV古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV04.png" group-title="NewTV",NewTV古装剧场
 http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/jcys.png" group-title="数字高清",精彩影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jcys.png" group-title="数字高清",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/ihot12.png" group-title="iHOT频道",iHOT爱电竞
+#EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot12.png" group-title="iHOT频道",iHOT爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/ihot26.png" group-title="iHOT频道",iHOT爱谍战
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot26.png" group-title="iHOT频道",iHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/ihot11.png" group-title="iHOT频道",iHOT爱动漫
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot11.png" group-title="iHOT频道",iHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot25.png" group-title="iHOT频道",iHOT爱都市
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
