@@ -130,75 +130,77 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDoma
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #数字高清/40个频道
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字高清",CHC高清电影
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC1.png" group-title="数字高清",CHC高清电影
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC2.png" group-title="数字高清",CHC家庭影院
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC3.png" group-title="数字高清",CHC动作电影
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
+#EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字高清",求索纪录
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字高清",求索科学
+#EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索科学" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字高清",求索科学
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="Qiusuo3" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="数字高清",求索动物
+#EXTINF:-1 tvg-id="Qiusuo3" tvg-name="求索动物" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字高清",求索动物
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索生活
+#EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字高清",求索生活
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
+#EXTINF:-1 tvg-id="Qiusuo5" tvg-name="求索记录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/Qiusuo5.png" group-title="数字高清",求索记录
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/hmdy.png" group-title="数字高清",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="儿童频道",黑莓动画
+#EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/hmdh.png" group-title="儿童频道",黑莓动画
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="dbdj" tvg-name="哒啵电竞" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbdj.png" group-title="数字高清",哒啵电竞
+#EXTINF:-1 tvg-id="dbdj" tvg-name="哒啵电竞" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shuzi/BesTvdbdj.png" group-title="数字高清",哒啵电竞
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
-#EXTINF:-1 tvg-id="dbss" tvg-name="哒啵赛事" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbss.png" group-title="数字高清",哒啵赛事
+#EXTINF:-1 tvg-id="dbss" tvg-name="哒啵赛事" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/dbss.png" group-title="数字高清",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="数字高清",乐游
+#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/leyou.png" group-title="数字高清",乐游
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字高清",纪实人文
+#EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jsrw.png" group-title="数字高清",纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png" group-title="数字高清",风云剧场
+#EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyjc.png" group-title="数字高清",风云剧场
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png" group-title="数字高清",风云音乐
+#EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyyy.png" group-title="数字高清",风云音乐
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png" group-title="数字高清",第一剧场
+#EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVdyjc.png" group-title="数字高清",第一剧场
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-id="CCTVnxss" tvg-name="女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVnxss.png" group-title="数字高清",女性时尚
+#EXTINF:-1 tvg-id="CCTVnxss" tvg-name="女性时尚" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVnxss.png" group-title="数字高清",女性时尚
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="数字高清",风云足球
+#EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyzq.png" group-title="数字高清",风云足球
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-id="CCTVbqkj" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png" group-title="数字高清",兵器科技
+#EXTINF:-1 tvg-id="CCTVbqkj" tvg-name="兵器科技" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="数字高清",兵器科技
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="CCTVhjjc" tvg-name="怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png" group-title="数字高清",怀旧剧场
+#EXTINF:-1 tvg-id="CCTVhjjc" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="数字高清",怀旧剧场
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="数字高清",世界地理
+#EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVsjdl.png" group-title="数字高清",世界地理
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="数字高清",文化精品
+#EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVwhjp.png" group-title="数字高清",文化精品
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png" group-title="数字高清",央视台球
+#EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVystq.png" group-title="数字高清",央视台球
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="数字高清",高尔夫网球
+#EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVgefwq.png" group-title="数字高清",高尔夫网球
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="数字高清",电视指南
+#EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVdszn.png" group-title="数字高清",电视指南
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="数字高清",都市剧场
+#EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/dsjc.png" group-title="数字高清",都市剧场
 http://39.134.18.69/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="数字高清",金色学堂
+#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jsxt.png" group-title="数字高清",金色学堂
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png" group-title="儿童频道",哈哈炫动
+#EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/hhxd.png" group-title="儿童频道",哈哈炫动
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",游戏风云
+#EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/yxfy.png" group-title="数字高清",游戏风云
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
-#EXTINF:-1 tvg-id="hxjc" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="数字高清",欢笑剧场
+#EXTINF:-1 tvg-id="hxjc" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/hxjc4k.png" group-title="数字高清",欢笑剧场
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-#EXTINF:-1 tvg-id="qcxj" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/qcxj.png" group-title="数字高清",七彩戏剧
+#EXTINF:-1 tvg-id="qcxj" tvg-name="七彩戏剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/qcxj.png" group-title="数字高清",七彩戏剧
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="数字高清",第一财经
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/dycj.png" group-title="数字高清",第一财经
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字高清",重温经典
+#EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/sichuan/Sichuan10.png" group-title="数字高清",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png" group-title="数字高清",弈坛春秋
+#EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/ytcq.png" group-title="数字高清",弈坛春秋
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字高清",劲爆体育
+#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jbty.png" group-title="数字高清",劲爆体育
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="中央新影发现之旅" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNDfxzl.png" group-title="数字高清",中央新影发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
@@ -206,25 +208,25 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/Shandong9.png" group-title="数字高清",山东教育卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",纯享4K
+#EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/cx4k.png" group-title="数字高清",纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="hs4k" tvg-name="华数4K影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",华数4K影视
+#EXTINF:-1 tvg-id="hs4k" tvg-name="华数4K影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/huashu4k.png" group-title="数字高清",华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="hs4k" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai5.png" group-title="数字高清",五星体育
+#EXTINF:-1 tvg-id="hs4k" tvg-name="五星体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai5.png" group-title="数字高清",五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ymkt.png" group-title="儿童频道",优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/ymkt.png" group-title="儿童频道",优漫卡通
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jjkt.png" group-title="儿童频道",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jjkt.png" group-title="儿童频道",嘉佳卡通
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #国际频道/20个频道
-#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
+#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix1.png" group-title="国际时事",凤凰中文
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix2.png" group-title="国际时事",凤凰资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯HD
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix2.png" group-title="国际时事",凤凰资讯HD
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
+#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix3.png" group-title="国际时事",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际时事",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -248,43 +250,43 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_Doc.png" group-title="国际时事",RT Doc-Русский
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际时事",CGTN
+#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CGTN.png" group-title="国际时事",CGTN
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际时事",CGTN Documentary
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际时事",CGTN Français
+#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CGTNFfra.png" group-title="国际时事",CGTN Français
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际时事",CGTN Русский
+#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CGTNpyc.png" group-title="国际时事",CGTN Русский
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际时事",CGTN Español
+#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CGTNesp.png" group-title="国际时事",CGTN Español
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
+#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CGTNalb.png" group-title="国际时事",CGTN العربية
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #湖南/14个频道
-#EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="湖南频道",茶频道
+#EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan12.png" group-title="湖南频道",茶频道
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="湖南频道",快乐垂钓
+#EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan11.png" group-title="湖南频道",快乐垂钓
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan9.png" group-title="湖南频道",金鹰纪实
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="Jykt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="儿童频道",金鹰卡通
+#EXTINF:-1 tvg-id="Jykt" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan10.png" group-title="儿童频道",金鹰卡通
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="Xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xfpy.png" group-title="湖南频道",先锋乒羽
+#EXTINF:-1 tvg-id="Xfpy" tvg-name="先锋乒羽" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan13.png" group-title="湖南频道",先锋乒羽
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn13.m3u8
-#EXTINF:-1 tvg-id="HN01" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" group-title="湖南频道",湖南经视
+#EXTINF:-1 tvg-id="HN01" tvg-name="湖南经视" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan1.png" group-title="湖南频道",湖南经视
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
-#EXTINF:-1 tvg-id="HN02" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" group-title="湖南频道",湖南都市
+#EXTINF:-1 tvg-id="HN02" tvg-name="湖南都市" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan2.png" group-title="湖南频道",湖南都市
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
-#EXTINF:-1 tvg-id="HN03" tvg-name="湖南爱晚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan3.png" group-title="湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="HN03" tvg-name="湖南爱晚" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan3.png" group-title="湖南频道",湖南爱晚
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn05.m3u8
-#EXTINF:-1 tvg-id="HN04" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan4.png" group-title="湖南频道",湖南国际
+#EXTINF:-1 tvg-id="HN04" tvg-name="湖南国际" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan4.png" group-title="湖南频道",湖南国际
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn06.m3u8
-#EXTINF:-1 tvg-id="HN05" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan5.png" group-title="湖南频道",湖南娱乐
+#EXTINF:-1 tvg-id="HN05" tvg-name="湖南娱乐" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan5.png" group-title="湖南频道",湖南娱乐
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn07.m3u8
-#EXTINF:-1 tvg-id="HN06" tvg-name="湖南电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan6.png" group-title="湖南频道",湖南电影
+#EXTINF:-1 tvg-id="HN06" tvg-name="湖南电影" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan6.png" group-title="湖南频道",湖南电影
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn04.m3u8
-#EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan7.png" group-title="湖南频道",湖南电视剧
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
 #EXTINF:-1 tvg-id="HN08" tvg-name="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csxw.png" group-title="湖南频道",长沙新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn14.m3u8
@@ -294,39 +296,39 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
 
 #山西/6个频道
-#EXTINF:-1 tvg-id="Shanxi" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="山西频道",山西卫视
+#EXTINF:-1 tvg-id="Shanxi" tvg-name="山西卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanxi1/Shanxi_0.png" group-title="山西频道",山西卫视
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 #EXTINF:-1 tvg-id="SX01" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi1.png" group-title="山西频道",黄河电视台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi1.m3u8
-#EXTINF:-1 tvg-id="SX02" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi2.png" group-title="山西频道",山西经济与科技
+#EXTINF:-1 tvg-id="SX02" tvg-name="山西经济与科技" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanxi1/Shanxi_1.png" group-title="山西频道",山西经济与科技
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi2.m3u8
-#EXTINF:-1 tvg-id="SX03" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi3.png" group-title="山西频道",山西影视
+#EXTINF:-1 tvg-id="SX03" tvg-name="山西影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanxi1/Shanxi_2.png" group-title="山西频道",山西影视
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi3.m3u8
-#EXTINF:-1 tvg-id="SX04" tvg-name="山西社会与法治" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi4.png" group-title="山西频道",山西社会与法治
+#EXTINF:-1 tvg-id="SX04" tvg-name="山西社会与法治" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanxi1/Shanxi_3.png" group-title="山西频道",山西社会与法治
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi4.m3u8
 #EXTINF:-1 tvg-id="SX05" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="山西频道",山西文体生活
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi5.m3u8
 
 #北京/2个频道
-#EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="北京频道",纪实科教
+#EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing5.png" group-title="北京频道",纪实科教
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="儿童频道",卡酷少儿
+#EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing8.png" group-title="儿童频道",卡酷少儿
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=3
 
 #陕西/7个频道
-#EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="陕西频道",陕西新闻资讯
+#EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi1.png" group-title="陕西频道",陕西新闻资讯
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I02" tvg-name="陕西都市青春" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi2.png" group-title="陕西频道",陕西都市青春
+#EXTINF:-1 tvg-id="I02" tvg-name="陕西都市青春" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi2.png" group-title="陕西频道",陕西都市青春
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I03" tvg-name="陕西生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi3.png" group-title="陕西频道",陕西生活
+#EXTINF:-1 tvg-id="I03" tvg-name="陕西生活" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi3.png" group-title="陕西频道",陕西生活
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I04" tvg-name="陕西影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi4.png" group-title="陕西频道",陕西影视
+#EXTINF:-1 tvg-id="I04" tvg-name="陕西影视" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi4.png" group-title="陕西频道",陕西影视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I05" tvg-name="陕西公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi5.png" group-title="陕西频道",陕西公共
+#EXTINF:-1 tvg-id="I05" tvg-name="陕西公共" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi5.png" group-title="陕西频道",陕西公共
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I06" tvg-name="陕西体育休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi6.png" group-title="陕西频道",陕西体育休闲
+#EXTINF:-1 tvg-id="I06" tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi6.png" group-title="陕西频道",陕西体育休闲
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="I07" tvg-name="陕西西部电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi7.png" group-title="陕西频道",陕西西部电影
+#EXTINF:-1 tvg-id="I07" tvg-name="陕西西部电影" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shanxi/Shanxi7.png" group-title="陕西频道",陕西西部电影
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="" group-title="陕西频道",西安教育台
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -338,59 +340,59 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001262/index.m3u8?virtualDoma
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #NewTV/15个频道
-#EXTINF:-1 tvg-id="N01" tvg-name="NewTV军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
+#EXTINF:-1 tvg-id="N01" tvg-name="NewTV军事评论" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV01.png" group-title="NewTV",NewTV军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="N02" tvg-name="NewTV军旅剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTV",NewTV军旅剧场
+#EXTINF:-1 tvg-id="N02" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV02.png" group-title="NewTV",NewTV军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="N05" tvg-name="NewTV家庭剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png" group-title="NewTV",NewTV家庭剧场
+#EXTINF:-1 tvg-id="N05" tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV05.png" group-title="NewTV",NewTV家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="N07" tvg-name="NewTV中国功夫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV07.png" group-title="NewTV",NewTV中国功夫
+#EXTINF:-1 tvg-id="N07" tvg-name="NewTV中国功夫" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV07.png" group-title="NewTV",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="N09" tvg-name="NewTV东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV09.png" group-title="NewTV",NewTV东北热剧
+#EXTINF:-1 tvg-id="N09" tvg-name="NewTV东北热剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV09.png" group-title="NewTV",NewTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="N10" tvg-name="NewTV惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png" group-title="NewTV",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="N10" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV10.png" group-title="NewTV",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="N12" tvg-name="NewTV明星大片" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV12.png" group-title="NewTV",NewTV明星大片
+#EXTINF:-1 tvg-id="N12" tvg-name="NewTV明星大片" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV12.png" group-title="NewTV",NewTV明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="N13" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
+#EXTINF:-1 tvg-id="N13" tvg-name="NewTV欢乐剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="N15" tvg-name="NewTV潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png" group-title="NewTV",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="N15" tvg-name="NewTV潮妈辣婆" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV15.png" group-title="NewTV",NewTV潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="N16" tvg-name="NewTV炫舞未来" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV16.png" group-title="NewTV",NewTV炫舞未来
+#EXTINF:-1 tvg-id="N16" tvg-name="NewTV炫舞未来" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV16.png" group-title="NewTV",NewTV炫舞未来
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="N18" tvg-name="NewTV精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV18.png" group-title="NewTV",NewTV精品体育
+#EXTINF:-1 tvg-id="N18" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV18.png" group-title="NewTV",NewTV精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="N19" tvg-name="NewTV精品大剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV19.png" group-title="NewTV",NewTV精品大剧
+#EXTINF:-1 tvg-id="N19" tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV19.png" group-title="NewTV",NewTV精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="N23" tvg-name="NewTV超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTV",NewTV超级电影
+#EXTINF:-1 tvg-id="N23" tvg-name="NewTV超级电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV23.png" group-title="NewTV",NewTV超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="N24" tvg-name="NewTV超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV",NewTV超级综艺
+#EXTINF:-1 tvg-id="N24" tvg-name="NewTV超级综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV24.png" group-title="NewTV",NewTV超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="N25" tvg-name="NewTV超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV",NewTV超级电视剧
+#EXTINF:-1 tvg-id="N25" tvg-name="NewTV超级电视剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV25.png" group-title="NewTV",NewTV超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV21.png" group-title="NewTV",NewTV金牌综艺
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV21.png" group-title="NewTV",NewTV金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV17.png" group-title="NewTV",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV17.png" group-title="NewTV",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="农业致富" tvg-name="NewTV农业致富" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV08.png" group-title="NewTV",NewTV农业致富
+#EXTINF:-1 tvg-id="农业致富" tvg-name="NewTV农业致富" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV08.png" group-title="NewTV",NewTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="动作电影" tvg-name="NewTV动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV03.png" group-title="NewTV",NewTV动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV03.png" group-title="NewTV",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV11.png" group-title="NewTV",NewTV怡伴健康
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV11.png" group-title="NewTV",NewTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="武博世界" tvg-name="NewTV武博世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV14.png" group-title="NewTV",NewTV武博世界
+#EXTINF:-1 tvg-id="武博世界" tvg-name="NewTV武博世界" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV14.png" group-title="NewTV",NewTV武博世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="海外剧场" tvg-name="NewTV海外剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV06.png" group-title="NewTV",NewTV海外剧场
+#EXTINF:-1 tvg-id="海外剧场" tvg-name="NewTV海外剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV06.png" group-title="NewTV",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="精品记录" tvg-name="NewTV精品记录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV20.png" group-title="NewTV",NewTV精品记录
+#EXTINF:-1 tvg-id="精品记录" tvg-name="NewTV精品记录" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV20.png" group-title="NewTV",NewTV精品记录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="超级体育" tvg-name="NewTV超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV22.png" group-title="NewTV",NewTV超级体育
+#EXTINF:-1 tvg-id="超级体育" tvg-name="NewTV超级体育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV22.png" group-title="NewTV",NewTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV39.png" group-title="NewTV",NewTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV04.png" group-title="NewTV",NewTV古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="NewTV",NewTV古装剧场
 http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="NewTV哒啵赛事" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV44.png" group-title="NewTV",NewTV哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
@@ -399,65 +401,65 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000066/1.m3u8?ch
 
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jcys.png" group-title="数字高清",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot12.png" group-title="iHOT频道",iHOT爱电竞
+#EXTINF:-1 tvg-id="爱电竞" tvg-name="iHOT爱电竞" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot12.png" group-title="iHOT频道",iHOT爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot26.png" group-title="iHOT频道",iHOT爱谍战
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot26.png" group-title="iHOT频道",iHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot11.png" group-title="iHOT频道",iHOT爱动漫
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot11.png" group-title="iHOT频道",iHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot25.png" group-title="iHOT频道",iHOT爱都市
+#EXTINF:-1 tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot25.png" group-title="iHOT频道",iHOT爱都市
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot29.png" group-title="iHOT频道",iHOT爱怀旧
+#EXTINF:-1 tvg-id="爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot29.png" group-title="iHOT频道",iHOT爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot18.png" group-title="iHOT频道",iHOT爱极限
+#EXTINF:-1 tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot18.png" group-title="iHOT频道",iHOT爱极限
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot21.png" group-title="iHOT频道",iHOT爱家庭
+#EXTINF:-1 tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot21.png" group-title="iHOT频道",iHOT爱家庭
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱江湖" tvg-name="iHOT爱江湖" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot28.png" group-title="iHOT频道",iHOT爱江湖
+#EXTINF:-1 tvg-id="爱江湖" tvg-name="iHOT爱江湖" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot28.png" group-title="iHOT频道",iHOT爱江湖
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱解密" tvg-name="iHOT爱解密" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot06.png" group-title="iHOT频道",iHOT爱解密
+#EXTINF:-1 tvg-id="爱解密" tvg-name="iHOT爱解密" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot06.png" group-title="iHOT频道",iHOT爱解密
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱经典" tvg-name="iHOT爱经典" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot27.png" group-title="iHOT频道",iHOT爱经典
+#EXTINF:-1 tvg-id="爱经典" tvg-name="iHOT爱经典" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot27.png" group-title="iHOT频道",iHOT爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot02.png" group-title="iHOT频道",iHOT爱科幻
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot02.png" group-title="iHOT频道",iHOT爱科幻
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot07.png" group-title="iHOT频道",iHOT爱科学
+#EXTINF:-1 tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot07.png" group-title="iHOT频道",iHOT爱科学
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot09.png" group-title="iHOT频道",iHOT爱浪漫
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot09.png" group-title="iHOT频道",iHOT爱浪漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot10.png" group-title="iHOT频道",iHOT爱历史
+#EXTINF:-1 tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot10.png" group-title="iHOT频道",iHOT爱历史
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱猎奇" tvg-name="iHOT爱猎奇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot08.png" group-title="iHOT频道",iHOT爱猎奇
+#EXTINF:-1 tvg-id="爱猎奇" tvg-name="iHOT爱猎奇" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot08.png" group-title="iHOT频道",iHOT爱猎奇
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot19.png" group-title="iHOT频道",iHOT爱旅行
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot19.png" group-title="iHOT频道",iHOT爱旅行
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱美食" tvg-name="iHOT爱美食" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot20.png" group-title="iHOT频道",iHOT爱美食
+#EXTINF:-1 tvg-id="爱美食" tvg-name="iHOT爱美食" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot20.png" group-title="iHOT频道",iHOT爱美食
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot04.png" group-title="iHOT频道",iHOT爱奇谈
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot04.png" group-title="iHOT频道",iHOT爱奇谈
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱青春" tvg-name="iHOT爱青春" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot22.png" group-title="iHOT频道",iHOT爱青春
+#EXTINF:-1 tvg-id="爱青春" tvg-name="iHOT爱青春" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot22.png" group-title="iHOT频道",iHOT爱青春
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot16.png" group-title="iHOT频道",iHOT爱赛车
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot16.png" group-title="iHOT频道",iHOT爱赛车
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱时尚" tvg-name="iHOT爱时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot23.png" group-title="iHOT频道",iHOT爱时尚
+#EXTINF:-1 tvg-id="爱时尚" tvg-name="iHOT爱时尚" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot23.png" group-title="iHOT频道",iHOT爱时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱世界" tvg-name="iHOT爱世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot17.png" group-title="iHOT频道",iHOT爱世界
+#EXTINF:-1 tvg-id="爱世界" tvg-name="iHOT爱世界" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot17.png" group-title="iHOT频道",iHOT爱世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱探索" tvg-name="iHOT爱探索" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot05.png" group-title="iHOT频道",iHOT爱探索
+#EXTINF:-1 tvg-id="爱探索" tvg-name="iHOT爱探索" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot05.png" group-title="iHOT频道",iHOT爱探索
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot15.png" group-title="iHOT频道",iHOT爱体育
+#EXTINF:-1 tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot15.png" group-title="iHOT频道",iHOT爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot13.png" group-title="iHOT频道",iHOT爱玩具
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot13.png" group-title="iHOT频道",iHOT爱玩具
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot03.png" group-title="iHOT频道",iHOT爱喜剧
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot03.png" group-title="iHOT频道",iHOT爱喜剧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot14.png" group-title="iHOT频道",iHOT爱悬疑
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot14.png" group-title="iHOT频道",iHOT爱悬疑
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot30.png" group-title="iHOT频道",iHOT爱幼教
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot30.png" group-title="iHOT频道",iHOT爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱娱乐" tvg-name="iHOT爱娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot24.png" group-title="iHOT频道",iHOT爱娱乐
+#EXTINF:-1 tvg-id="爱娱乐" tvg-name="iHOT爱娱乐" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot24.png" group-title="iHOT频道",iHOT爱娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ihot01.png" group-title="iHOT频道",iHOT爱院线
+#EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/iHOT/ihot01.png" group-title="iHOT频道",iHOT爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="yxfy" tvg-name="电子竞技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",电子竞技
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
