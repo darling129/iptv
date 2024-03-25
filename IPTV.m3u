@@ -48,11 +48,11 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDoma
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #卫视高清/40个频道
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
+#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/hunan/Hunan.png" group-title="卫视高清",湖南卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视高清",浙江卫视
+#EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/zhejiang/Zhejiang.png" group-title="卫视高清",浙江卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视高清",东方卫视
+#EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai.png" group-title="卫视高清",东方卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
