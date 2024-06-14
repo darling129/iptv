@@ -75,7 +75,7 @@ http://ori.jsblive.hls.domybox.com:91/live/GZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="B13" tvg-name="海南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan.png" group-title="卫视高清",海南卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B14" tvg-name="河北卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hebei/Hebei.png" group-title="卫视高清",河北卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://ori.jsblive.hls.domybox.com:91/live/HeBWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="B15" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang.png" group-title="卫视高清",黑龙江卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B16" tvg-name="河南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/henan/Henan.png" group-title="卫视高清",河南卫视
