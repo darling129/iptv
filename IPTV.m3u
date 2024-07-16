@@ -234,6 +234,9 @@ http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/75/01.m3u8?msisd
 http://hlsbkmgsplive.miguvideo.com/wd_r1/2019/xiongmao/HD/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-id="最强综艺" tvg-name="最强综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",最强综艺
 http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai3.png" group-title="数字高清",东方影视
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+
 
 #国际频道/20个频道
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix1.png" group-title="国际时事",凤凰中文
