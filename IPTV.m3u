@@ -218,6 +218,22 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jjkt.png" group-title="儿童频道",嘉佳卡通
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/jjkt.png" group-title="数字高清",经典香港电影
+http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",四海钓鱼
+http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",新片放映厅
+http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",红色轮播台
+http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002413/57/20210706/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-id="玫瑰轮播台" tvg-name="玫瑰轮播台" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",玫瑰轮播台
+http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",华语乐坛最强音
+http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/75/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-id="熊猫频道高清" tvg-name="熊猫频道高清" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",熊猫频道高清
+http://hlsbkmgsplive.miguvideo.com/wd_r1/2019/xiongmao/HD/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-id="最强综艺" tvg-name="最强综艺" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/shdy.png" group-title="数字高清",最强综艺
+http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 
 #国际频道/20个频道
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Phoenix1.png" group-title="国际时事",凤凰中文
