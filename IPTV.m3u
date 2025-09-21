@@ -67,17 +67,17 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001044/index.m3u8?virtualDoma
 #EXTINF:-1 tvg-id="B09" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu.png" group-title="卫视高清",甘肃卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B10" tvg-name="广东卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/guangdong/Guangdong.png" group-title="卫视高清",广东卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://39.136.111.131:6610/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B11" tvg-name="广西卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/guangxi/Guangxi.png" group-title="卫视高清",广西卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B12" tvg-name="贵州卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Guizhou.png" group-title="卫视高清",贵州卫视
-http://ori.jsblive.hls.domybox.com:91/live/GZWShd-8M/live.m3u8
+http://39.136.111.131:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B13" tvg-name="海南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan.png" group-title="卫视高清",海南卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B14" tvg-name="河北卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hebei/Hebei.png" group-title="卫视高清",河北卫视
-http://ori.jsblive.hls.domybox.com:91/live/HeBWShd-8M/live.m3u8
+http://39.136.111.131:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B15" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang.png" group-title="卫视高清",黑龙江卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://39.136.111.131:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B16" tvg-name="河南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/henan/Henan.png" group-title="卫视高清",河南卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B17" tvg-name="湖北卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei.png" group-title="卫视高清",湖北卫视
