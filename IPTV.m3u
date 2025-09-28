@@ -99,7 +99,7 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDoma
 #EXTINF:-1 tvg-id="B25" tvg-name="云南卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/yunnan/Yunnan.png" group-title="卫视高清",云南卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B26" tvg-name="新疆卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/xinjiang/Xinjiang.png" group-title="卫视高清",新疆卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8
 #EXTINF:-1 tvg-id="B27" tvg-name="三沙卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Sansha.png" group-title="卫视高清",三沙卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000002801/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Qinghai.png" group-title="卫视高清",青海卫视
@@ -109,13 +109,13 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDoma
 #EXTINF:-1 tvg-id="B30" tvg-name="山西卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Shanxi_.png" group-title="卫视高清",山西卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Xizang.png" group-title="卫视高清",西藏卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Neimeng.png" group-title="卫视高清",内蒙古卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B33" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Ningxia.png" group-title="卫视高清",宁夏卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B34" tvg-name="兵团卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Bingtuan.png" group-title="卫视高清",兵团卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227155/index.m3u8
 #EXTINF:-1 tvg-id="B35" tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视高清",安多卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/weishi/Kangba.png" group-title="卫视高清",康巴卫视
