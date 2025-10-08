@@ -55,7 +55,7 @@ http://39.136.111.131:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDoma
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shanghai/Shanghai.png" group-title="卫视高清",东方卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing.png" group-title="卫视高清",北京卫视
-http://39.136.111.131:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jiangsu/Jiangsu.png" group-title="卫视高清",江苏卫视
 http://39.136.111.131:6610/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/anhui/Anhui.png" group-title="卫视高清",安徽卫视
